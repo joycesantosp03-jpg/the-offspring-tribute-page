@@ -1,22 +1,28 @@
 # The Offspring Tribute Page
 
-## Sobre o projeto
-Este projeto é uma página de tributo dedicada à banda The Offspring, apresentando informações sobre sua história, curiosidades e imagens, com finalidade de estudo.
+## 📌 Sobre o projeto
 
-## Tecnologias utilizadas
+Projeto de uma página de tributo sobre a banda The Offspring, desenvolvido com finalidade de estudo.
+
+## 🚀 Tecnologias utilizadas
+
 - HTML
 - CSS
 
-## Objetivo
+## 🎯 Objetivo
+
 Praticar estruturação de páginas web utilizando HTML e estilização com CSS.
-## 📷 Preview
+
+## 📷 Pré-visualização
 
 ![Preview do projeto](preview.png)
 
-## Funcionalidades
+## ⚙️ Funcionalidades
+
 - Página estática com informações da banda
 - Uso de imagens e citações
-- Organização de conteúdo em seções
+- Conteúdo organizado em seções
 
-## Status
+## 📌 Status
+
 Projeto finalizado
