@@ -1,4 +1,4 @@
-# "Página de Tributo - The Offspring"
+# Offspring Tribute
 
 ## 🌐 Acesse o projeto
 
@@ -6,7 +6,6 @@
 
 ---
 
-## 📌 Sobre o projeto
 
 ## 📌 Sobre o projeto
 
