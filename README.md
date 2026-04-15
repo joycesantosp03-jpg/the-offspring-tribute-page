@@ -1,4 +1,4 @@
-# The Offspring Tribute Page
+# Página de Tributo à banda The Offspring
 
 ## 📌 Sobre o projeto
 
