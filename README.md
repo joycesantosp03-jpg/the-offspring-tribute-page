@@ -1,4 +1,4 @@
-# Offspring Tribute
+# The Offspring Tribute Page
 
 ## 🌐 Acesse o projeto
 
