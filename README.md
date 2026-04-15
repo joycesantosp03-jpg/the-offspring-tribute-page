@@ -1,4 +1,12 @@
-# Página de Tributo à banda The Offspring
+# "Página de Tributo - The Offspring"
+
+## 🌐 Acesse o projeto
+
+🔗 [Ver projeto online](https://joycesantosp03-jpg.github.io/the-offspring-tribute-page/)
+
+---
+
+## 📌 Sobre o projeto
 
 ## 📌 Sobre o projeto
 
